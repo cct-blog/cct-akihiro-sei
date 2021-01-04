@@ -1,1 +1,1 @@
-# cct-akihiro-sei
+# Sample code for blog posts
